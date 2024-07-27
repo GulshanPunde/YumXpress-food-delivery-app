@@ -1,6 +1,8 @@
+
 # YumXpress Food Delivery App
 
 ![Foodie](https://github.com/user-attachments/assets/a20ef841-d413-40b8-9d6e-e61f202ef5dc)
+
 ## Overview
 
 YumXpress is a Java-based food delivery application that provides a user-friendly interface for ordering food. The application uses Swing for the graphical user interface and JDBC for database connectivity.
@@ -20,7 +22,7 @@ To run the application, ensure you have Java installed on your system.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/punitpunde/YumXpress-food-delivery-app.git
+    git clone https://github.com/gulshanpunde/YumXpress-food-delivery-app.git
     cd YumXpress-food-delivery-app
     ```
 
@@ -62,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Gulshan Punde - [gulshanpunde@gmail.com](mailto:gulshanpunde@gmail.com)
 
-Project Link: [https://github.com/GulshanPunde/YumXpress-food-delivery-app](https://github.com/GulshanPunde/YumXpress-food-delivery-app)
+Project Link: [https://github.com/gulshanpunde/YumXpress-food-delivery-app](https://github.com/gulshanpunde/YumXpress-food-delivery-app)
