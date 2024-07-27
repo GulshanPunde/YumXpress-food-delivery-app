@@ -1,7 +1,6 @@
 # YumXpress Food Delivery App
 
-![YumXpress Logo](C:\Users\HP\Documents\Projects\Java\YumXpress - by Gulshan\YumXpress\src\yumxpress\icons)
-
+![Foodie](https://github.com/user-attachments/assets/a20ef841-d413-40b8-9d6e-e61f202ef5dc)
 ## Overview
 
 YumXpress is a Java-based food delivery application that provides a user-friendly interface for ordering food. The application uses Swing for the graphical user interface and JDBC for database connectivity.
