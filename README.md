@@ -1,4 +1,3 @@
-
 # YumXpress Food Delivery App
 
 ![Foodie](https://github.com/user-attachments/assets/a20ef841-d413-40b8-9d6e-e61f202ef5dc)
@@ -41,9 +40,9 @@ To run the application, ensure you have Java installed on your system.
 
 ## Screenshots
 
-![Login Screen](https://via.placeholder.com/600x400)
-![Menu Screen](https://via.placeholder.com/600x400)
-![Order Screen](https://via.placeholder.com/600x400)
+<img width="740" alt="customerlogin" src="https://github.com/user-attachments/assets/9292e2a8-e283-48ae-a9d6-40b70c9243c9">
+<img width="740" alt="Customerreg" src="https://github.com/user-attachments/assets/a91b087d-79cf-4bd2-a39c-bdaf772fad6f">
+<img width="740" alt="Home" src="https://github.com/user-attachments/assets/f07ae25c-1462-4562-93a3-374479db3458">
 
 ## Technologies Used
 
